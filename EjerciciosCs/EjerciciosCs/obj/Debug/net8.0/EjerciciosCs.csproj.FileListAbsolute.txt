@@ -1,0 +1,14 @@
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\bin\Debug\net8.0\EjerciciosCs.exe
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\bin\Debug\net8.0\EjerciciosCs.deps.json
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\bin\Debug\net8.0\EjerciciosCs.runtimeconfig.json
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\bin\Debug\net8.0\EjerciciosCs.dll
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\bin\Debug\net8.0\EjerciciosCs.pdb
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\obj\Debug\net8.0\EjerciciosCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\obj\Debug\net8.0\EjerciciosCs.AssemblyInfoInputs.cache
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\obj\Debug\net8.0\EjerciciosCs.AssemblyInfo.cs
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\obj\Debug\net8.0\EjerciciosCs.csproj.CoreCompileInputs.cache
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\obj\Debug\net8.0\EjerciciosCs.dll
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\obj\Debug\net8.0\refint\EjerciciosCs.dll
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\obj\Debug\net8.0\EjerciciosCs.pdb
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\obj\Debug\net8.0\EjerciciosCs.genruntimeconfig.cache
+C:\Users\lhunt\source\repos\EjerciciosCs\EjerciciosCs\obj\Debug\net8.0\ref\EjerciciosCs.dll
